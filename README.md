@@ -74,7 +74,7 @@ As a dedicated software developer with a fervent passion for creating exceptiona
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=refilwe204&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=minkyvuyi&&style=flat-square)  
 
 <br/>  
 
