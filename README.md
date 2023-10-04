@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-## I am an aspiring Software developer and a mother!
+## I am an aspiring Software developer!
 
 I am a passionate, vibrant, and goal-oriented aspiring software developer who approaches each day with an unwavering commitment to success. My attention to detail, adaptability, and dedication to innovation set me apart in the technology industry. I am excited to continue contributing to the ever-evolving world of software development, pushing boundaries, and achieving new heights of excellence.
 
