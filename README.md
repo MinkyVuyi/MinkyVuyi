@@ -9,7 +9,7 @@
 
 ## I am an aspiring Software developer!
 
-I am a passionate, vibrant, and goal-oriented aspiring software developer who approaches each day with an unwavering commitment to success. My attention to detail, adaptability, and dedication to innovation set me apart in the technology industry. I am excited to continue contributing to the ever-evolving world of software development, pushing boundaries, and achieving new heights of excellence.
+I am a passionate, vibrant, and goal-oriented software developer who approaches each day with an unwavering commitment to success. My attention to detail, adaptability, and dedication to innovation set me apart in the technology industry. I am excited to continue contributing to the ever-evolving world of software development, pushing boundaries, and achieving new heights of excellence.
 
 As a dedicated software developer with a fervent passion for creating exceptional web experiences, I have honed my skills through an enriching journey in the realm of coding. My proficiency spans a variety of front-end technologies, encompassing HTML, CSS, JavaScript, Angular.js, React, and Next.js. My GitHub repository serves as a testament to my unwavering dedication to crafting innovative and user-friendly web solutions.
 
