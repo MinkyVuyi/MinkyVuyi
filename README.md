@@ -20,9 +20,9 @@ As a dedicated software developer with a fervent passion for creating exceptiona
 ## About Me   
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Currently, I am working on completing last module- JavaScript Engineering with CodeSpace Academy at the Bafokeng CodeLab.
+- 🔭 
   
-- 🌱 Currently I am learning Nextjs framework with a Udemy online course.
+- 🌱 Currently I am learning Cybersecurity with Udemy.
   
 - 👯 I’m looking forward to collaborating on creating new content and very awesome Web Applications!
 
